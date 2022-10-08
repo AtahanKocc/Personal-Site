@@ -7,7 +7,6 @@ import nextjs from "../assets/nextjs.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
 import python from "../assets/python.jpg";
-import figma from "../assets/figma.png"
 
 
 
@@ -60,12 +59,6 @@ const Experience = () => {
             src: python,
             title: "Python",
             style: "shadow-blue-500",
-          },
-          {
-            id:9,
-            src: figma,
-            title: "Figma",
-            style: "shadow-white"
           },
     ]
 
