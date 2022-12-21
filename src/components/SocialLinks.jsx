@@ -1,5 +1,5 @@
 import React from "react";
-import { FaDribbble, FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaDribbble, FaGithub, FaLinkedin,FaBehance } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 
@@ -46,6 +46,15 @@ const SocialLinks = () => {
       id: 5,
       child: (
         <>
+          Behance <FaBehance size={30} />
+        </>
+      ),
+      href: "https://www.behance.net/atahankoc",
+    },
+    {
+      id: 6,
+      child: (
+        <>
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
@@ -53,7 +62,6 @@ const SocialLinks = () => {
       style: "rounded-br-md",
       download: true,
     },
-    
   ];
 
   return (

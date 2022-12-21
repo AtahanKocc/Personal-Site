@@ -6,7 +6,7 @@ import reactImage from "../assets/react.png";
 import nextjs from "../assets/nextjs.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
-import python from "../assets/python.jpg";
+import python from "../assets/python.png";
 
 
 
