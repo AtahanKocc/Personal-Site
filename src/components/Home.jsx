@@ -15,8 +15,8 @@ const Home = () => {
             I'm a Software Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-          Hi, I'm Atahan. I am trying to improve myself in the field of web development/design.
-          In addition to my passion for software development, screenwriting, photography and playing sports are also among my hobbies. 
+          Hi! I'm Atahan. I am a graduate of Computer Engineering from Istanbul Medipol University. 
+          Currently working as a Software Engineer at Geovision Group 
           </p>
 
           <div>

@@ -11,11 +11,11 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-10">
-        I'm a computer engineer with a passion for web development and design. 
-        With expertise in languages such as HTML, CSS, JavaScript, and Python, as well as modern frameworks like React.js, Angular, and TypeScript, I have the skills and knowledge to bring your ideas to life. 
-        In addition to my technical skills, I also have a strong eye for aesthetics and usability, and am proficient in design tools such as Figma, Adobe XD, and Photoshop. As a freelance software developer, I am always looking for new challenges and opportunities to help bring value to my clients. 
-        If you have any questions or projects in mind, don't hesitate to reach out to me on my social media accounts.
+        <p className="text-xl mt-5">
+        Hi! I'm Atahan. I graduated from Istanbul Medipol University Computer Engineering. 
+        I am currently working as a Software Engineer at Geovision Group. I am involved in various projects both internally and as an outsourced . 
+        I skilled in using technologies such as C#, Javascript, Linq, Entity Framework, ASP.NET MVC. 
+        Outside of software development, I take pleasure in playing video games and watching movies.
         </p>
 
       </div>

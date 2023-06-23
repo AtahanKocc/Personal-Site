@@ -3,11 +3,11 @@ import html from '../assets/html.png';
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
-import nextjs from "../assets/nextjs.png";
-import github from "../assets/github.png";
+// import nextjs from "../assets/nextjs.png";
+import csharp from "../assets/csharp2.png";
 import tailwind from "../assets/tailwind.png";
 import python from "../assets/python.png";
-
+import Angular from "../assets/angular.png";
 
 
 const Experience = () => {
@@ -31,28 +31,28 @@ const Experience = () => {
             style: "shadow-yellow-500",
         },
         {
-            id: 4,
+          id: 4,
+          src: csharp,
+          title: "C#",
+          style: "shadow-white",
+        },
+        {
+            id: 5,
             src: reactImage,
             title: "React",
             style: "shadow-blue-600",
         },
         {
-            id: 5,
+            id: 6,
             src: tailwind,
             title: "Tailwind",
             style: "shadow-sky-400",
           },
           {
-            id: 6,
-            src: nextjs,
-            title: "Next JS",
-            style: "shadow-white",
-          },
-          {
-            id: 7,
-            src: github,
-            title: "Git",
-            style: "shadow-gray-500",
+            id:7,
+            src: Angular,
+            title: "Angular",
+            style:"shadow-red-400"
           },
           {
             id: 8,
@@ -60,6 +60,7 @@ const Experience = () => {
             title: "Python",
             style: "shadow-blue-500",
           },
+          
     ]
 
 
