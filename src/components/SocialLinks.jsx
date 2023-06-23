@@ -58,7 +58,7 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/AtahanKoc.pdf",
+      href: "/AtahanKoc_cv.pdf",
       style: "rounded-br-md",
       download: true,
     },
