@@ -44,7 +44,7 @@ const SocialLinks = () => {
     },
     {
       id: 5,
-      child: (
+      child: (  
         <>
           Behance <FaBehance size={30} />
         </>

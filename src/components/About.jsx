@@ -12,7 +12,7 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-5">
-        Hi! I'm Atahan. I graduated from Istanbul Medipol University Computer Engineering. 
+        I'm Atahan. I graduated from Istanbul Medipol University Computer Engineering. 
         I am currently working as a Software Engineer at Geovision Group. I am involved in various projects both internally and as an outsourced . 
         I skilled in using technologies such as C#, Javascript, Linq, Entity Framework, ASP.NET MVC. 
         Outside of software development, I take pleasure in playing video games and watching movies.

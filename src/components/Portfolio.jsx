@@ -2,36 +2,35 @@ import React from 'react';
 import moodmusic from '../assets/portfolio/moodmusic.png';
 import Dashboard from '../assets/portfolio/dashboard.png';
 import magazine from '../assets/portfolio/magazine.png';
-import emotion from '../assets/portfolio/emotion.png';
+import emotion from '../assets/portfolio/facial-recognition.jpg';
 import BloodDonation from '../assets/portfolio/maxresdefault.jpg';
+import PersonalWebsite from '../assets/portfolio/personalwebsite.png';
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: moodmusic,
-      github: 'https://github.com/AtahanKocc/Digital_Music_Platform',
-    },
-    {
-      id: 2,
-      src: Dashboard,
-      github: 'https://github.com/AtahanKocc/Dashboard',
-    },
-    {
-      id: 3,
-      src: magazine,
-      github: 'https://github.com/AtahanKocc/MagazineWebsite',
-    },
-    {
-      id: 4,
       src: emotion,
       github: 'https://github.com/AtahanKocc/Emotion-Recognition-For-AI-Assisted-Student-Counseling-',
     },
     {
-      id:5,
+      id:2,
       src:BloodDonation,
       github:'https://github.com/AtahanKocc/BloodDonation'
-    }
+    }, 
+    {
+      id:3,
+      src:PersonalWebsite,
+      github:'https://github.com/AtahanKocc/Personal-Site'
+    },
+    {
+      id: 4,
+      src: Dashboard,
+      github: 'https://github.com/AtahanKocc/Dashboard',
+    },
+   
+    
+    
   ];
 
   return (
